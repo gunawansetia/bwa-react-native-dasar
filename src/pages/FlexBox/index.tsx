@@ -2,7 +2,7 @@
 import React, {Component} from 'react';
 import {Image, Text, View} from 'react-native';
 
-class MateriFlexbox extends Component {
+class FlexBox extends Component {
   render() {
     return (
       <View>
@@ -50,4 +50,4 @@ class MateriFlexbox extends Component {
   }
 }
 
-export default MateriFlexbox;
+export default FlexBox;
